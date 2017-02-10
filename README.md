@@ -1,6 +1,6 @@
 # dbshackthon-team6
 
-## A Facebook messenger robot to help people to get investment information
+A Facebook messenger robot to help people get investment information
 
 ## Usage
 
